@@ -18,7 +18,7 @@ This repository contains the following files: <br>
 </UL>
 
 # Usage
-Required Python version: 3.7 or 3.8 <br?
+Required Python version: 3.7 <br>
 To install required packages, run: pip install -r requirements.txt <br>
 To run the code, run: python3 xxxxx.py
 
