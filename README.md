@@ -18,8 +18,8 @@ This repository contains the following files: <br>
 </UL>
 
 # Usage
-Required Python version: 3.7 <br>
-To install required packages, run: pip install -r requirements.txt <br>
+This code relies on a short list of python packages, and comes with a virtual environment with the packages pre-installed.  To use it, from the root directory, run `$ source env/bin/activate` then run `pip install -r requirements.txt` to install other dependencies. <br>
+If you wish to use your own environment, you need to have Python 3.7 and run `pip install -r requirements.txt` from the root directory. <br>
 To run the code, run: python3 xxxxx.py
 
 # Synthetic data
