@@ -18,9 +18,9 @@ This repository contains the following files: <br>
 </UL>
 
 # Usage
-This code relies on a short list of python packages, and comes with a virtual environment with the packages pre-installed.  To use it, from the root directory, run `$ source env/bin/activate` then run `pip install -r requirements.txt` to install other dependencies. <br>
-If you wish to use your own environment, you need to have Python 3.7 and run `pip install -r requirements.txt` from the root directory. <br>
-To run the code, run: python3 xxxxx.py
+This code relies on a short list of python packages, and comes with a virtual environment with the packages pre-installed.  To use it, from the root directory, run `$ source env/bin/activate` then run `$ pip install -r requirements.txt` to install other dependencies. <br>
+If you wish to use your own environment, you need to have Python 3.7 and run `$ pip install -r requirements.txt` from the root directory. <br>
+To run the code, run: `$ python xxxxx.py`
 
 # Synthetic data
 We have created a Jupyer notebook at Synthetic_data.ipynb with detailed steps of how we create the synthetic data using the method presented in the paper. 
